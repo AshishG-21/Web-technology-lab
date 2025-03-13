@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Supermarket Webpage</title>
+<style>
+h1{
+   color:red;
+   text-align:center;
+  }
+</style>
+</head>
+<body>
+<h1><u>Mega Groceries</u></h1>
+<h5>Fresh Products for U since 2008</h5>
+<h2><u>About Us</u></h2>
+<p>DMart is a one-stop supermarket chain that aims to offer customers a wide range of basic home and personal products under one roof. 
+Each DMart store stocks home utility products - including food, toiletries, beauty products, garments, kitchenware, bed and bath linen, home appliances and more - available at competitive prices that our customers appreciate. 
+Our core objective is to offer customers good products at great value.</p>
